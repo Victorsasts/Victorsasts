@@ -30,13 +30,12 @@ Certificações: Internet das Coisas (IoT) e Segurança Cibernética (em andamen
 Estou sempre em busca de novos desafios, aprendendo mais sobre as novas tendências no mundo da tecnologia e explorando diferentes áreas da programação. Se você quer trocar ideias ou colaborar em algum projeto, fique à vontade para me chamar!
 
 <!-- Links -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/toquinhaman/](https://www.instagram.com/_victorsasts/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/christian-oliveira-925532257/](https://www.linkedin.com/in/joao-victor-198023315/))
+
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=victorsasts&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
 ## Portfolio:
@@ -44,7 +43,7 @@ Estou sempre em busca de novos desafios, aprendendo mais sobre as novas tendênc
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://github.com/VariableBee/Victorsasts/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
 ## 🔥 Skills
