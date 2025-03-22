@@ -47,23 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
 </div>
 
-###
 
-<h3 align="left"></h3>
-
-###
-
-
-
-
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-
-
-###
-
-###
 
 <h3 align="left">frameworks</h3>
 
