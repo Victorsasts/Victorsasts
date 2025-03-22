@@ -35,10 +35,6 @@ Estou sempre em busca de novos desafios, aprendendo mais sobre as novas tendênc
 /www.linkedin.com/in/joao-victor-198023315/))
 
 
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=victorsasts&show_icons=true&theme=gotham)
-
-<!-- Portfolio -->
 
 <!-- GIF -->
 <p align="left">
