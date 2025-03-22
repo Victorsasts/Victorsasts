@@ -14,7 +14,7 @@
 
   👨‍💻 João Victor | Desenvolvedor Web | Estudante de Ciência da Computação
 
-Olá, sou João Victor, tenho 20 anos e atualmente estou no terceiro semestre do Bacharelado em Ciências da Computação. Meu objetivo é me tornar um desenvolvedor web completo, e estou constantemente aprendendo e me atualizando sobre as mais recentes tecnologias e melhores práticas do desenvolvimento de software.
+Olá, sou João Victor, tenho 20 anos e atualmente estou no terceiro semestre do Bacharelado em Ciências da Computação! Trabalho como freelancer em front End. Meu objetivo é me tornar um desenvolvedor web completo, e estou constantemente aprendendo e me atualizando sobre as mais recentes tecnologias e melhores práticas do desenvolvimento de software.
 
 💻 Tecnologias que domino:
 
@@ -41,11 +41,7 @@ Estou sempre em busca de novos desafios, aprendendo mais sobre as novas tendênc
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
-- [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
-- [Client Registry System](https://github.com/VariableBee/Cartorio)
+
 
 <!-- GIF -->
 <p align="left">
