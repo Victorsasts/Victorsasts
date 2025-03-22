@@ -8,8 +8,7 @@
     
 
 
-<!-- Dropdown -->
-<details>
+
   <summary>👨‍💻 More about me</summary>
 
   👨‍💻 João Victor | Desenvolvedor Web | Estudante de Ciência da Computação
