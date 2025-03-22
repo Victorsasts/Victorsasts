@@ -30,7 +30,7 @@ Certificações: Internet das Coisas (IoT) e Segurança Cibernética (em andamen
 Estou sempre em busca de novos desafios, aprendendo mais sobre as novas tendências no mundo da tecnologia e explorando diferentes áreas da programação. Se você quer trocar ideias ou colaborar em algum projeto, fique à vontade para me chamar!
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/toquinhaman/](https://www.instagram.com/_victorsasts/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/_victorsasts/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/christian-oliveira-925532257/](https://www.linkedin.com/in/joao-victor-198023315/))
 
 
