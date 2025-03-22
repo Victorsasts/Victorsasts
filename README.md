@@ -39,15 +39,11 @@ Estou sempre em busca de novos desafios, aprendendo mais sobre as novas tendênc
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=victorsasts&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
-## Portfolio:
-
 
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/Victorsasts/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
-
-## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
