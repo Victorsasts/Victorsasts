@@ -29,7 +29,10 @@
   ###
   
   <p align="left">Olá, Me chamo João Victor, tenho 20 anos e atualmente estou no cursando Bacharelado em Ciências da Computação! Trabalho como freelancer em front End. Meu objetivo é me tornar um desenvolvedor web completo, e estou constantemente aprendendo e me atualizando sobre as mais recentes tecnologias e melhores práticas do desenvolvimento de software.<br><br>💻 Tecnologias que domino:<br><br>Frontend: HTML, CSS, JavaScript<br><br>Backend: Python<br><br>Banco de Dados: Oracle SQL<br><br>Certificações: Internet das Coisas (IoT) e Segurança Cibernética (em andamento)<br><br>📚 Além de programar, sou apaixonado por desenvolvimento pessoal. Gosto de ler livros que me ajudam a crescer tanto profissionalmente quanto pessoalmente. Também sou fã de mangás e filmes antigos, que me inspiram e trazem novas perspectivas.<br><br>Estou sempre em busca de novos desafios, aprendendo mais sobre as novas tendências no mundo da tecnologia e explorando diferentes áreas da programação. Se você quer trocar ideias ou colaborar em algum projeto, fique à vontade para me chamar</p>
-  
+
+  <div align="center">
+  <img height="46" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
+</div>
   ###
   
   <h2 align="left">🛠 Language and skill</h2>
@@ -61,9 +64,7 @@
 </div>
 
 ###
-<div align="center">
-  <img height="46" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
-</div>
+
 
 ###
 
