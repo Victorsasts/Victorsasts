@@ -18,7 +18,7 @@
 ###
   
   
-<h2 align="left">⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ!Web Developer !João Victor dos Santos Monteiro</h2>
+<h2 align="left">⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟJoão Victor dos Santos Monteiro</h2>
 
 ###
   
