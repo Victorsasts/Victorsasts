@@ -115,7 +115,7 @@
 
 ###
 
-<p align="left">Vamos revolucionar o mundo!</p>
+<p align="left">Ajudar a revolucionar o mundo</p>
 
 ###
   
